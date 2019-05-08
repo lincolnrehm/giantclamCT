@@ -5,6 +5,9 @@ import timeit
 import pydicom
 import matplotlib.pyplot as plt
 
+
+
+####lsdkjfsldkjfsdlkfj
 #from joblib import Parallel,delayed
 binarize = False
 start = timeit.default_timer()
